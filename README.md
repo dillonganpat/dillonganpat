@@ -1,5 +1,5 @@
 # Hey I'm Dillon Ganpat 👋
-• 🌎 I'm from Trinidad<br>• ✉️ You can contact me at dillon.ganpat@my.uwi.edu<br> 
+✉️ You can contact me at dillon.ganpat@my.uwi.edu<br> 
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
