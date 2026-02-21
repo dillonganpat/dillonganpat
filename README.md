@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey there, I'm Dillon Ganpat 👋<br><br>*   🔭 I'm currently working on a  **Customer Service and Complaint Management System**<br>*   🌱 I'm currently learning **Object Oriented Programming**<br>*   👯 I'm looking to collaborate on **real world projects that make a difference**<br>*   ✉️ You can contact me at **dillonganpat@gmail.com**
+### Hey there, I'm Dillon Ganpat 👋<br><br>*   🔭 I'm currently working on a  **Customer Service and Complaint Management System**<br>*   🌱 I'm currently learning **Object Oriented Programming**<br>*   ✉️ You can contact me at **dillonganpat@gmail.com**
 
 
 ## 🌐 Socials:
