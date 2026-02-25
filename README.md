@@ -13,5 +13,4 @@ I'm a Computer Science student passionate about building projects, learning new 
 
 ## 📫 Contact Me
 - Email: dillonganpat@gmail.com
-- LinkedIn: [linkedin.com/in/dillon-ganpat](https://www.linkedin.com/in/dillon-ganpat)  
 - GitHub: [github.com/dillonganpat](https://github.com/dillonganpat)
