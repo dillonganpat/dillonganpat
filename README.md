@@ -1,102 +1,18 @@
-# 👋 Hi, I'm Dillon Ganpat
+# 💫 About Me:
+🎓 Computer Science Student @ University of the West Indies (UWI)<br>📍 Trinidad & Tobago<br>💡 Aspiring Software Engineer | Full-Stack Developer 
 
-🎓 Computer Science Student @ University of the West Indies (UWI)  
-📍 Trinidad & Tobago  
-💡 Aspiring Software Engineer | Full-Stack Developer | Java & React Enthusiast  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dillon Ganpat) 
 
-## 🚀 About Me
-
-I’m a Computer Science student passionate about building real-world software systems and learning how large-scale applications are designed and developed.
-
-I enjoy working on:
-- Full-stack web applications
-- Object-oriented system design
-- Backend development with Java & Spring Boot
-- Frontend development with React
-
-I am actively building projects to strengthen my skills in **software engineering, system design, and backend development**.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dillonganpat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dillonganpat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dillonganpat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=dillonganpat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏦 Featured Project
-
-### Banking System - Full Stack Application
-**Java | Spring Boot | PostgreSQL | React**
-
-A full-stack banking system that simulates real banking operations with customer management, accounts, deposits, withdrawals, and transaction tracking.
-
-Key highlights:
-- Applied all 4 OOP pillars (Encapsulation, Abstraction, Inheritance, Polymorphism)
-- Built REST APIs using Spring Boot
-- Designed a PostgreSQL database for persistent storage
-- Developed a React frontend dashboard with API integration
-- Implemented design patterns (Strategy, Observer, Factory, Singleton)
-
----
-
-## 🧠 Skills
-
-**Languages:**  
-Java, Python, JavaScript, C, C++, SQL, HTML/CSS  
-
-**Frameworks & Tools:**  
-Spring Boot, React, Node.js, Express.js, Flask, Django  
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB  
-
-**Tools & Platforms:**  
-Git, GitHub, Docker (learning), VS Code, IntelliJ  
-
----
-
-## 📚 Education
-
-**University of the West Indies (UWI)**  
-BSc Computer Science (Expected 2027)
-
-Relevant Coursework:
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Systems
-- Software Engineering
-- Operating Systems
-- Computer Networks
-
-🏅 Trinidad & Tobago National Bursary Award (Academic Scholarship)
-
----
-
-## 💼 Experience
-
-**IT Support Intern — TSTT**  
-📍 Telecommunications Services of Trinidad and Tobago  
-
-- Supported enterprise IT systems and resolved technical support tickets
-- Managed user accounts and access control (IAM) for 500+ users
-- Deployed and configured enterprise workstations and software systems
-- Worked with Active Directory, Citrix, and internal ticketing systems
-
----
-
-## 🎯 Goals
-
-- Become a Software Engineer specializing in backend or full-stack development
-- Build scalable, production-ready applications
-- Improve system design and distributed systems knowledge
-- Gain internship experience in software engineering roles
-
----
-
-## 📫 Contact
-
-📧 Email: dillonganpat@gmail.com  
-📱 Phone: (868) 276-6285  
-💼 LinkedIn: linkedin.com/in/dillonganpat  
-🐙 GitHub: github.com/dillonganpat  
-
----
-
-⭐ “Building skills one project at a time.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
