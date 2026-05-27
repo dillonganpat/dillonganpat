@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student @ University of the West Indies (UWI)<br>📍 Trinidad & Tobago<br>💡
+🎓 Computer Science Student @ University of the West Indies (UWI)<br>📍 Trinidad & Tobago<br>
 
 
 ## 🌐 Socials:
