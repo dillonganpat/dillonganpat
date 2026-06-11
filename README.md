@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Personal Finance Tracker — expanding AI features and analytics<br>👯 I'm looking to collaborate on<br>Full-stack web applications using React, Node.js or Python<br>🤝 I'm looking for help with<br>Full-time software engineering roles — open to opportunities!<br>🌱 I'm currently learning<br>System design, Docker, and cloud deployment<br>💬 Ask me about<br>React, Node.js, FastAPI, PostgreSQL, or full-stack development<br>⚡ Fun fact<br>I'm a CS student in Trinidad & Tobago building production-ready full-stack apps
+Full-Stack Software Engineer and CS student at UWI.<br>
+🚀 Latest: **CodeCheck** — AI code error detector live at [codecheck-theta.vercel.app](https://codecheck-theta.vercel.app)<br>
+🛠️ Stack: React · Next.js · TypeScript · Node.js · FastAPI · PostgreSQL · MongoDB<br>
+📦 3 deployed full-stack projects with live URLs<br>
+🤝 Actively looking for internships and junior software engineering roles
 
 
 # 💻 Tech Stack:
