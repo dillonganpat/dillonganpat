@@ -1,8 +1,6 @@
 # 💫 About Me:
-Full-Stack Software Engineer and CS student at UWI.<br>
-🚀 Latest: **CodeCheck** — AI code error detector live at [codecheck-theta.vercel.app](https://codecheck-theta.vercel.app)<br>
+Full-Stack Software Engineer with 2+ years experience and Computer Science student at UWI.<br>
 🛠️ Stack: React · Next.js · TypeScript · Node.js · FastAPI · PostgreSQL · MongoDB<br>
-📦 3 deployed full-stack projects with live URLs<br>
 🤝 Actively looking for internships and junior software engineering roles
 
 
