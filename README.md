@@ -1,7 +1,6 @@
 # 💫 About Me:
-Full-Stack Software Engineer with 2+ years experience and Computer Science student at UWI.<br>
+Full-Stack Software Engineer and Computer Science major at the University of the West Indies, St. Augustine, Trinidad and Tobago.<br>
 🛠️ Stack: React · Next.js · TypeScript · Node.js · FastAPI · PostgreSQL · MongoDB<br>
-🤝 Actively looking for internships and junior software engineering roles
 
 
 # 💻 Tech Stack:
