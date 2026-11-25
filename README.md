@@ -1,8 +1,29 @@
-# 👾 About Me:
-I'm a Full-Stack Software Engineer and Computer Science student at The University of the West Indies, St. Augustine, graduating May 2027. I build end-to-end web applications, from relational database design to REST APIs to responsive UIs.<br><br>Currently building software for the UWI Faculty of Science and Technology Student Society.<br><br>🔭 Some things I've built:<br>- **CampusStay** — a full-stack student housing marketplace (FastAPI + SQLModel + PostgreSQL) with role-based booking and date-conflict validation, deployed on Render<br>- **Code Check** — an AI-powered code analysis tool (Next.js + TypeScript) detecting bugs across 10 languages<br>- **Personal Finance Tracker** — a full-stack expense tracker (React + FastAPI + PostgreSQL) with AI-driven insights<br>
+# Hi, I'm Dillon Ganpat
 
+Computer Science student at the University of the West Indies, St. Augustine (graduating May 2027), and a full-stack software engineer. I build end-to-end web applications, from relational database design to REST APIs to responsive UIs, and I care about tested, maintainable code.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Currently building software for the UWI Faculty of Science and Technology Student Society. Looking for software engineering internships and graduate roles.
 
-📫 Reach me at dillonganpat@gmail.com or [LinkedIn](https://www.linkedin.com/in/dillonganpat/)
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**CampusStay**](https://github.com/dillonganpat/comp3613a1) | Student housing marketplace with role-based booking, server-side date-conflict rules and a JWT-secured REST API. 132 automated tests and a 40-request Postman suite. [Live](https://faststarter.onrender.com) | FastAPI, SQLModel, PostgreSQL, pytest |
+| [**Student Accommodation (team)**](https://github.com/ScarletCola1/comp3613-student-accommodation) | Team extension of the same domain: listing lifecycle built with the State pattern (8 states, 14 allowed and 66 refused transitions), audit log and notifications. 131 tests | FastAPI, PostgreSQL, Docker, Render |
+| [**Code Check**](https://github.com/dillonganpat/codecheck) | AI code analysis tool that finds bugs and fixes across 10 languages. [Live](https://codecheck-theta.vercel.app) | Next.js, TypeScript, Groq API |
+| [**DriveEasy**](https://github.com/dillonganpat/car-rental) | Full-stack car rental platform with owner dashboard and bookings. [Live](https://car-rental-client-xuyh.onrender.com) | MERN, JWT, Cloudinary |
+| [**FSTSS Website**](https://github.com/dillonganpat/fstss-website) | Society website serving 1,000+ students. [Live](https://fstss-website.vercel.app) | HTML, CSS, vanilla JS |
+| [**Personal Finance Tracker**](https://github.com/dillonganpat/Personal-Finance-Tracker) | Expense tracker with AI-driven insights | React, FastAPI, PostgreSQL |
+
+## Tech stack
+
+**Languages:** Python, JavaScript, TypeScript, Java, SQL, C, C++
+**Backend:** FastAPI, SQLModel, Node.js, Express
+**Frontend:** React, Next.js, Tailwind CSS
+**Data:** PostgreSQL, MongoDB
+**Testing:** pytest, Postman, unit, integration and acceptance testing
+**Tools:** Git, GitHub, Docker, Render, Vercel
+
+## Contact
+
+dillonganpat@gmail.com | [LinkedIn](https://www.linkedin.com/in/dillonganpat/)
